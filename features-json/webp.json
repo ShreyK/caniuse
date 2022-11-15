@@ -21,11 +21,7 @@
       "title":"WebP decoder and encoder"
     }
   ],
-  "bugs":[
-    {
-      "description":"WebP images displays as a broken image icon in [Microsoft Edge v18 in Application Guard mode](https://www.ctrl.blog/entry/windows-webp-appguard) even when an alternative image source format is available."
-    }
-  ],
+  "bugs":[],
   "categories":[
     "Other"
   ],
